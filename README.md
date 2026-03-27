@@ -18,7 +18,7 @@
 
 ### About Me
 
-I'm a software engineer with a background in Electronics and Communication Engineering, now building full-stack web applications and backend systems. I enjoy working on real-time applications, clean APIs, and solving problems that sit at the intersection of hardware and software.
+I'm a software engineer with a background in Electronics and Communication Engineering, building full-stack web applications and backend systems. I enjoy working on real-time applications, clean APIs, and solving problems.
 
 - 🔭 Currently working at **Start Up** — building licensing frameworks, operator UIs, automation, and cobot integrations
 - 🎓 B.Tech from **SRM Institute of Science and Technology**
