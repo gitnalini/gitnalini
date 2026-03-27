@@ -96,11 +96,7 @@ I'm a software engineer with a background in Electronics and Communication Engin
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=gitnalini&theme=default&hide_border=true" alt="GitHub Streak" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitnalini&layout=compact&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
-
+ 
 ---
 
 <p align="center">
