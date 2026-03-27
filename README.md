@@ -49,21 +49,6 @@ I'm a software engineer with a background in Electronics and Communication Engin
 
 ---
 
-### Projects
-
-**[CodeBook](https://github.com/nalini-patidar/codebook)** — Real-Time Code Collaboration Editor
-
-> Multi-user collaborative code editor with live sync, syntax highlighting, and session management. Built with React, Node.js, Socket.IO, and CodeMirror.
-
-**[ecoChat](https://github.com/nalini-patidar/ecochat)** — Real-Time Chat Application
-
-> Full-featured chat app with group and private messaging, JWT auth, typing indicators, and active user detection. Built with React, Node.js, and Socket.IO.
-
-**[SkySnap](https://github.com/nalini-patidar/skysnap)** — Geolocation Weather App
-
-> Weather app using browser geolocation and async API calls, with dynamic UI, weather icons, and temperature unit toggle. Built with HTML, CSS, and JavaScript.
-
----
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nalini-patidar&show_icons=true&theme=default&hide_border=true&count_private=true" height="150" />
