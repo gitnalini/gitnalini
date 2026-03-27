@@ -20,8 +20,8 @@
 
 I'm a software engineer with a background in Electronics and Communication Engineering, now building full-stack web applications and backend systems. I enjoy working on real-time applications, clean APIs, and solving problems that sit at the intersection of hardware and software.
 
-- 🔭 Currently working at **TeraLumen Solutions** — building licensing frameworks, operator UIs, and cobot integrations
-- 🎓 B.Tech from **SRM Institute of Science and Technology** (GPA: 8.89/10)
+- 🔭 Currently working at **Start Up** — building licensing frameworks, operator UIs, automation, and cobot integrations
+- 🎓 B.Tech from **SRM Institute of Science and Technology** 
 - 💼 **Open to full-time roles and freelance opportunities** — feel free to reach out!
 - 📬 **nalinipatidar626@gmail.com**
 
@@ -84,22 +84,6 @@ I'm a software engineer with a background in Electronics and Communication Engin
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white)
-
----
-
-### Projects
-
-**[CodeBook](https://github.com/nalini-patidar/codebook)** — Real-Time Code Collaboration Editor
-
-> Multi-user collaborative code editor with live sync, syntax highlighting, and session management. Built with React, Node.js, Socket.IO, and CodeMirror.
-
-**[ecoChat](https://github.com/nalini-patidar/ecochat)** — Real-Time Chat Application
-
-> Full-featured chat app with group and private messaging, JWT auth, typing indicators, and active user detection. Built with React, Node.js, and Socket.IO.
-
-**[SkySnap](https://github.com/nalini-patidar/skysnap)** — Geolocation Weather App
-
-> Weather app using browser geolocation and async API calls, with dynamic UI, weather icons, and temperature unit toggle. Built with HTML, CSS, and JavaScript.
 
 ---
 
