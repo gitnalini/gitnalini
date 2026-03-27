@@ -24,7 +24,7 @@
 
 I'm a software engineer with a background in Electronics and Communication Engineering, building full-stack web applications and backend systems. I enjoy working on real-time applications, clean APIs, and solving problems.
 
-- 🔭 Currently working at **Start Up** — building licensing frameworks, operator UIs, automation, and cobot integrations
+- 🔭 Currently working in a **Start Up** — building licensing frameworks, operator UIs, automation, and cobot integrations
 - 🎓 B.Tech from **SRM Institute of Science and Technology**
 - 💼 **Open to full-time roles and freelance opportunities** — feel free to reach out!
 - 📬 **nalinipatidar626@gmail.com**
