@@ -86,31 +86,11 @@ I'm a software engineer with a background in Electronics and Communication Engin
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white)
 
 ---
-
-### 🚀 Projects
-
-**[CodeBook](https://github.com/gitnalini/codebook)** — Real-Time Code Collaboration Editor
-
-> Multi-user collaborative code editor with live sync, syntax highlighting, and session management. Built with React, Node.js, Socket.IO, and CodeMirror.
-
-**[ecoChat](https://github.com/gitnalini/ecochat)** — Real-Time Chat Application
-
-> Full-featured chat app with group and private messaging, JWT auth, typing indicators, and active user detection. Built with React, Node.js, and Socket.IO.
-
-**[SkySnap](https://github.com/gitnalini/skysnap)** — Geolocation Weather App
-
-> Weather app using browser geolocation and async API calls, with dynamic UI, weather icons, and temperature unit toggle. Built with HTML, CSS, and JavaScript.
-
----
-
+ 
 ### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=gitnalini&theme=default&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitnalini&layout=compact&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 ---
