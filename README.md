@@ -21,7 +21,7 @@
 I'm a software engineer with a background in Electronics and Communication Engineering, now building full-stack web applications and backend systems. I enjoy working on real-time applications, clean APIs, and solving problems that sit at the intersection of hardware and software.
 
 - 🔭 Currently working at **Start Up** — building licensing frameworks, operator UIs, automation, and cobot integrations
-- 🎓 B.Tech from **SRM Institute of Science and Technology** 
+- 🎓 B.Tech from **SRM Institute of Science and Technology**
 - 💼 **Open to full-time roles and freelance opportunities** — feel free to reach out!
 - 📬 **nalinipatidar626@gmail.com**
 
@@ -87,9 +87,14 @@ I'm a software engineer with a background in Electronics and Communication Engin
 
 ---
 
+### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nalini-patidar&show_icons=true&theme=default&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nalini-patidar&layout=compact&theme=default&hide_border=true" height="150" />
+  <img src="https://streak-stats.demolab.com?user=nalini-patidar&theme=default&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nalini-patidar&layout=compact&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 ---
